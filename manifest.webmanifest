@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Life Eternal Quest — Fitness & Spiritual Tracker",
+  "short_name": "Eternal Quest",
+  "description": "A private journal for workouts, body metrics, yoga, pranayama, meditation and japa.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f4fb",
+  "theme_color": "#17152f",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
